@@ -30,16 +30,16 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
-                        <a class="nav-link fw-bold text-white" href="index.html">Home</a>
+                        <a class="nav-link fw-bold text-white" href="index.php">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link fw-bold text-white" href="aboutus.html">About Us</a>
+                        <a class="nav-link fw-bold text-white" href="aboutus.php">About Us</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link fw-bold text-white" href="lite.html">Litepaper</a>
+                        <a class="nav-link fw-bold text-white" href="lite.php">Litepaper</a>
                     </li>
                     <li class="nav-item">
-                        <a class="btn btn-primary fw-bold" href="login.html">Get Started</a>
+                        <a class="btn btn-primary fw-bold" href="login.php">Get Started</a>
                     </li>
                 </ul>
             </div>
@@ -56,7 +56,7 @@
             </div>
         </div>  
         <div class="imgcon">
-            <img src="./image/icon.png" alt="Pointer AI Logo">
+            <img src="https://raw.githubusercontent.com/mjpro14/mjpro/refs/heads/master/5e77efe7-d85c-4800-bcfb-757773fe505f-removebg-preview.png" alt="Pointer AI Logo">
         </div>
     </section>
 <section class="intro ">
