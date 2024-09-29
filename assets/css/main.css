@@ -1766,3 +1766,7 @@ background: linear-gradient(90deg, rgba(38,92,193,1) 0%, rgba(28,42,63,1) 0%, rg
 
   border-radius: 10px;
 }
+
+.tp{
+  background: rgba(0, 0, 0, 0); 
+}
